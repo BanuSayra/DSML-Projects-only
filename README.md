@@ -19,9 +19,13 @@ This repository showcases my **Data Science & Machine Learning projects**, devel
 ## 📁 Project Highlights
 
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Data Visualization & Insights
+
 ✔ Supervised & Unsupervised Machine Learning
+
 ✔ Real-world datasets & case studies
+
 ✔ Course assignments & independent projects
 
 ---
